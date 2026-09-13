@@ -1,0 +1,8 @@
+mail.protection.outlook.com
+mx.microsoft
+outlook.cloud.microsoft
+outlook.com
+outlook.office.com
+outlook.office365.com
+protection.outlook.com
+smtp.office365.com

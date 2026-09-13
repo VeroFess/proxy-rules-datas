@@ -1,0 +1,4 @@
+api.anthropic.com
+browser-intake-us5-datadoghq.com
+cdn.usefathom.com
+http-intake.logs.us5.datadoghq.com

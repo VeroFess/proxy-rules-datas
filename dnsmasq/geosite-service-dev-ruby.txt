@@ -1,0 +1,9 @@
+api.rubygems.org
+bundler.rubygems.org
+cache.ruby-lang.org
+gems.rubyforge.org
+gems.rubyonrails.org
+index.rubygems.org
+rubygems.org
+rubygems.pkg.github.com
+rvm.io

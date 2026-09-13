@@ -1,0 +1,7 @@
+auth.openai.com
+auth0.openai.com
+challenges.cloudflare.com
+claude.ai
+claude.com
+platform.claude.com
+setup.auth.openai.com

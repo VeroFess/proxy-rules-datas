@@ -1,0 +1,11 @@
+appattest.apple.com
+axm-servicediscovery.apple.com
+deviceenrollment.apple.com
+deviceservices-external.apple.com
+gdmf.apple.com
+identity.apple.com
+iprofiles.apple.com
+mdmenrollment.apple.com
+push.apple.com
+setup.icloud.com
+vpp.itunes.apple.com

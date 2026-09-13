@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-13T01:14:39Z",
+  "artifact_license_note": "Packages and aggregate geosite databases containing SukkaW/Surge-derived rules are distributed with AGPL-3.0 source and notices; repository code remains CC BY-SA 4.0.",
+  "sources": [
+    {
+      "id": "anthropic",
+      "url": "https://code.claude.com/docs/en/network-config",
+      "kind": "official",
+      "license": "Anthropic published endpoint data; see source page terms",
+      "status": "live",
+      "fetched_at": "2026-09-13T01:14:38Z",
+      "sha256": "c84db66928f3445905ebbd509c69af86596b448652cae355946a5fc64a0c06b3",
+      "rule_count": 16
+    },
+    {
+      "id": "anthropic_desktop",
+      "url": "https://code.claude.com/docs/en/desktop",
+      "kind": "official",
+      "license": "Anthropic published endpoint data; see source page terms",
+      "status": "live",
+      "fetched_at": "2026-09-13T01:14:38Z",
+      "sha256": "17600cc47268d3f514a614e475c76e61a2ab0dc563bb82acfd1fda43ce7889d5",
+      "rule_count": 6
+    },
+    {
+      "id": "apple",
+      "url": "https://support.apple.com/en-us/101555",
+      "kind": "official",
+      "license": "Apple published endpoint data; see source page terms",
+      "status": "live",
+      "version": "August 07, 2026",
+      "fetched_at": "2026-09-13T01:14:38Z",
+      "sha256": "964d90c99b6f2e945010683058798a08306509683e9246a2104ab4af5330f82f",
+      "rule_count": 134
+    },
+    {
+      "id": "domain-list-community",
+      "url": "https://github.com/v2fly/domain-list-community",
+      "kind": "upstream",
+      "license": "MIT",
+      "status": "live",
+      "commit": "5d939545c84e2a534f8e85ba6ffb2b51fa18fb76",
+      "fetched_at": "2026-09-13T01:14:39Z",
+      "sha256": "e07c8aac14b254dedefd22d521b40da7d1577f9aec34435737b90c7334f55eae",
+      "rule_count": 77,
+      "selected_files": [
+        "anthropic",
+        "apple-intelligence",
+        "google-deepmind",
+        "openai"
+      ]
+    },
+    {
+      "id": "google_code_assist",
+      "url": "https://docs.cloud.google.com/gemini/docs/codeassist/network-access",
+      "kind": "official",
+      "license": "CC BY 4.0",
+      "status": "live",
+      "fetched_at": "2026-09-13T01:14:39Z",
+      "sha256": "a971e7789bdad569140274b897c91272c18f1bd614dff6efc58f54c1aa4438fe",
+      "rule_count": 1
+    },
+    {
+      "id": "microsoft_cn",
+      "url": "https://endpoints.office.com/endpoints/China",
+      "kind": "official",
+      "license": "Microsoft published endpoint data; see API documentation",
+      "status": "live",
+      "version": "2026073100",
+      "fetched_at": "2026-09-13T01:14:39Z",
+      "sha256": "867be0bc5f2addc3f7c4d0fedeb81c779e0cb534f62420e82390dadf43481cff",
+      "rule_count": 47
+    },
+    {
+      "id": "microsoft_worldwide",
+      "url": "https://endpoints.office.com/endpoints/Worldwide",
+      "kind": "official",
+      "license": "Microsoft published endpoint data; see API documentation",
+      "status": "live",
+      "version": "2026081400",
+      "fetched_at": "2026-09-13T01:14:39Z",
+      "sha256": "85780a252eb282f731e3adefbfd6efd94e189412273c1d749ac15429e1944330",
+      "rule_count": 190
+    },
+    {
+      "id": "openai",
+      "url": "https://help.openai.com/en/articles/9247338-network-recommendations-for-chatgpt-errors-on-web-and-apps",
+      "kind": "official",
+      "license": "OpenAI published endpoint data; see source page terms",
+      "status": "stale",
+      "version": "2026-07-22T05:14:01Z",
+      "fetched_at": "2026-09-13T01:14:38Z",
+      "sha256": "351f5ec933b3a3c5538cbb3020fe67dac22b24c32154fd130bb6bd7e22772def",
+      "rule_count": 31,
+      "snapshot_note": "Manually copied from the official OpenAI Help Center page because automated requests receive HTTP 403.",
+      "warnings": [
+        "HTTP 403 Forbidden"
+      ]
+    },
+    {
+      "id": "sukkaw-surge",
+      "url": "https://github.com/SukkaW/Surge",
+      "kind": "upstream",
+      "license": "AGPL-3.0-only",
+      "status": "live",
+      "commit": "ce53726272f4545ae48d7be2a5eed1699232e0c5",
+      "fetched_at": "2026-09-13T01:14:39Z",
+      "sha256": "91dfd1460515d78e14cce90b8594865c3273037cf56d3ba64a63d52e8e999560",
+      "rule_count": 165,
+      "selected_files": [
+        "Source/domainset/cdn.conf",
+        "Source/domainset/download.conf",
+        "Source/non_ip/ai.conf",
+        "Source/non_ip/apple_cn.conf",
+        "Source/non_ip/apple_intelligence.conf",
+        "Source/non_ip/apple_services.conf",
+        "Source/non_ip/microsoft.conf"
+      ],
+      "selected_sections": [
+        "Claude",
+        "Claude AI",
+        "Google",
+        "OpenAI",
+        "OpenAI / ChatGPT"
+      ],
+      "warnings": [
+        "sukka-apple-services:28 ignored IP-CIDR",
+        "sukka-apple-services:31 ignored PROCESS-NAME",
+        "sukka-apple-services:32 ignored PROCESS-NAME",
+        "sukka-apple-services:33 ignored PROCESS-NAME",
+        "sukka-apple-services:53 ignored PROCESS-NAME",
+        "sukka-apple-services:54 ignored PROCESS-NAME",
+        "sukka-apple-services:55 ignored PROCESS-NAME",
+        "sukka-apple-services:56 ignored PROCESS-NAME",
+        "sukka-apple-services:57 ignored PROCESS-NAME"
+      ]
+    }
+  ],
+  "packages": [
+    "apple-services",
+    "apple-services-official",
+    "apple-services-official-cn",
+    "microsoft-365-cn",
+    "microsoft-365-worldwide",
+    "microsoft-services",
+    "service-ai",
+    "service-anthropic",
+    "service-apple-intelligence",
+    "service-chatgpt",
+    "service-claude",
+    "service-claude-code",
+    "service-codex",
+    "service-gemini-code-assist",
+    "service-gemini-web",
+    "service-google-ai",
+    "service-openai"
+  ],
+  "package_licenses": {
+    "apple-services": "AGPL-3.0-only (contains SukkaW/Surge-derived rules)",
+    "apple-services-official": "official/upstream source terms; see sources",
+    "apple-services-official-cn": "official/upstream source terms; see sources",
+    "microsoft-365-cn": "official/upstream source terms; see sources",
+    "microsoft-365-worldwide": "official/upstream source terms; see sources",
+    "microsoft-services": "AGPL-3.0-only (contains SukkaW/Surge-derived rules)",
+    "service-ai": "AGPL-3.0-only (contains SukkaW/Surge-derived rules)",
+    "service-anthropic": "AGPL-3.0-only (contains SukkaW/Surge-derived rules)",
+    "service-apple-intelligence": "AGPL-3.0-only (contains SukkaW/Surge-derived rules)",
+    "service-chatgpt": "AGPL-3.0-only (contains SukkaW/Surge-derived rules)",
+    "service-claude": "AGPL-3.0-only (contains SukkaW/Surge-derived rules)",
+    "service-claude-code": "AGPL-3.0-only (contains SukkaW/Surge-derived rules)",
+    "service-codex": "AGPL-3.0-only (contains SukkaW/Surge-derived rules)",
+    "service-gemini-code-assist": "AGPL-3.0-only (contains SukkaW/Surge-derived rules)",
+    "service-gemini-web": "AGPL-3.0-only (contains SukkaW/Surge-derived rules)",
+    "service-google-ai": "AGPL-3.0-only (contains SukkaW/Surge-derived rules)",
+    "service-openai": "AGPL-3.0-only (contains SukkaW/Surge-derived rules)"
+  }
+}

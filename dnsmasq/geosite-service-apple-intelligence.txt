@@ -1,0 +1,8 @@
+apple-relay.apple.com
+apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
+apple-relay.mask.apple-dns.net
+cp4.cloudflare.com
+gspe1-ssl.ls.apple.com
+guzzoni.apple.com
+smoot.apple.com

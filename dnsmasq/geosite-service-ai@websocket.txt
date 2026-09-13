@@ -1,0 +1,3 @@
+bridge.claudeusercontent.com
+chatgpt.com
+ws.chatgpt.com

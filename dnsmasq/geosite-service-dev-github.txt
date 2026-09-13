@@ -1,0 +1,17 @@
+api.mcp.github.com
+codeload.github.com
+collector.github.com
+copilot-proxy.githubusercontent.com
+default.exp-tas.com
+github-cloud.githubusercontent.com
+github-cloud.s3.amazonaws.com
+github.com
+githubassets.com
+githubcopilot.com
+githubusercontent.com
+lfs.github.com
+objects.githubusercontent.com
+origin-tracker.githubusercontent.com
+raw.githubusercontent.com
+scanning-api.github.com
+uploads.github.com

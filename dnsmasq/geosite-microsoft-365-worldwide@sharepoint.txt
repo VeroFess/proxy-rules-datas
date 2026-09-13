@@ -1,0 +1,10 @@
+admin.onedrive.com
+g.live.com
+officeclient.microsoft.com
+oneclient.sfx.ms
+sharepoint.com
+sharepointonline.com
+spoprod-a.akamaihd.net
+storage.live.com
+svc.ms
+wns.windows.com

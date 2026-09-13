@@ -1,0 +1,7 @@
+cls-ingest.itunes.apple.com
+cls-iosclient.itunes.apple.com
+pg-bootstrap.itunes.apple.com
+play.itunes.apple.com
+s.mzstatic.com
+ws-ee-maidsvc.icloud.com
+ws.school.apple.com
