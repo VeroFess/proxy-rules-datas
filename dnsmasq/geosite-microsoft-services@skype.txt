@@ -1,0 +1,11 @@
+adl.windows.com
+aka.ms
+join.secure.skypeassets.com
+keydelivery.mediaservices.windows.net
+lync.com
+mlccdnprod.azureedge.net
+skype.com
+streaming.mediaservices.windows.net
+teams.cloud.microsoft
+teams.microsoft.com
+teams.microsoftonline.cn

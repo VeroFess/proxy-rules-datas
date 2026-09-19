@@ -1,0 +1,5 @@
+edgeservices.bing.com
+identrust.com
+launchdarkly.com
+observeit.net
+segment.io

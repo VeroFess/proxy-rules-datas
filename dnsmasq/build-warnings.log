@@ -1,0 +1,590 @@
+geosite-abema: downgraded full-domain rules to dnsmasq suffix matching
+geosite-acfun: downgraded full-domain rules to dnsmasq suffix matching
+geosite-acfun@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-activision-blizzard: downgraded full-domain rules to dnsmasq suffix matching
+geosite-adobe-activation: downgraded full-domain rules to dnsmasq suffix matching
+geosite-adobe: downgraded full-domain rules to dnsmasq suffix matching
+geosite-agilebits: downgraded full-domain rules to dnsmasq suffix matching
+geosite-alibaba: downgraded full-domain rules to dnsmasq suffix matching
+geosite-alibaba@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-alibabacloud: downgraded full-domain rules to dnsmasq suffix matching
+geosite-alibabacloud@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-alphabet: downgraded full-domain rules to dnsmasq suffix matching
+geosite-alphabet: skipped regexp rules that dnsmasq nftset cannot express
+geosite-alphabet@!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-alphabet@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-alphabet@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-alphabet@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-amazon: downgraded full-domain rules to dnsmasq suffix matching
+geosite-amazon: skipped regexp rules that dnsmasq nftset cannot express
+geosite-amazon@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-amazon@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-amp: downgraded full-domain rules to dnsmasq suffix matching
+geosite-amp@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-android: downgraded full-domain rules to dnsmasq suffix matching
+geosite-anthropic: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apkmirror: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-dev: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-dev@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-intelligence: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-music: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-music@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-pki: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-pki@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-podcasts: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-podcasts@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official-cn@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official-cn@pki: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official-cn@third-party: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@abdm: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@apple-intelligence: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@appscontent: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@asmab: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@auth: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@beta: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@caching: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@carrier: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@classschool: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@devicemanagement: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@devicesetup: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@diagnostics: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@dns: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@domains: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@icloud: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@idverifier: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@pki: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@taptopay: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@third-party: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services-official@update: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@abdm: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@apple-intelligence: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@appscontent: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@asmab: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@auth: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@beta: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@caching: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@carrier: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@classschool: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@devicemanagement: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@devicesetup: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@diagnostics: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@dns: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@domains: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@icloud: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@idverifier: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@pki: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@taptopay: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@third-party: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-services@update: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple-tvplus: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple: downgraded full-domain rules to dnsmasq suffix matching
+geosite-apple@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-asahi: downgraded full-domain rules to dnsmasq suffix matching
+geosite-asobo: downgraded full-domain rules to dnsmasq suffix matching
+geosite-avito: downgraded full-domain rules to dnsmasq suffix matching
+geosite-avito@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-aws-cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-aws-cn@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-aws: skipped regexp rules that dnsmasq nftset cannot express
+geosite-aws@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-azure: downgraded full-domain rules to dnsmasq suffix matching
+geosite-bahamut: downgraded full-domain rules to dnsmasq suffix matching
+geosite-bbc: downgraded full-domain rules to dnsmasq suffix matching
+geosite-beats: downgraded full-domain rules to dnsmasq suffix matching
+geosite-bilibili-cdn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-bilibili-cdn@!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-bilibili2: skipped regexp rules that dnsmasq nftset cannot express
+geosite-bilibili: downgraded full-domain rules to dnsmasq suffix matching
+geosite-bilibili@!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-binance: downgraded full-domain rules to dnsmasq suffix matching
+geosite-bing: downgraded full-domain rules to dnsmasq suffix matching
+geosite-bing@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-blizzard: downgraded full-domain rules to dnsmasq suffix matching
+geosite-brightcove: downgraded full-domain rules to dnsmasq suffix matching
+geosite-broadcom: downgraded full-domain rules to dnsmasq suffix matching
+geosite-bybit: downgraded full-domain rules to dnsmasq suffix matching
+geosite-bytedance: downgraded full-domain rules to dnsmasq suffix matching
+geosite-bytedance@!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-bytedance@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-carrotquest: downgraded full-domain rules to dnsmasq suffix matching
+geosite-carrotquest@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ads: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-ads@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ads@ads: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-ai-!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ai-!cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-ai-!cn@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ai-chat-!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ai-chat-!cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-ai-chat-!cn@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ai-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-android-app-download: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-anticensorship: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-antivirus: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-antivirus@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-bank-ru: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-bank-ru@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-browser-!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-cas: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-cas@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-communication: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-companies: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-companies: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-companies@!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-companies@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-companies@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-companies@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-container: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-cryptocurrency: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-dev-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-dev-official: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-dev: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-dev: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-dev@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-dev@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-doh: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ecommerce-ru: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ecommerce-ru@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ecommerce: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ecommerce@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-education-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-emby: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-entertainment-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-entertainment-cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-entertainment-cn@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-entertainment-cn@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-entertainment: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-entertainment: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-entertainment@!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-entertainment@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-entertainment@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-entertainment@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-finance: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-finance@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-forums: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-game-platforms-download: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-game-platforms-download@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-games-!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-games-!cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-games-!cn@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-games-!cn@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-games-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-games-cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-games-cn@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-games: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-games: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-games@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-games@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-hospital-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ip-geo-detect: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-media-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-media: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-mooc-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-netdisk-!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-netdisk-!cn@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ntp-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ntp-cn@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ntp: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ntp@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-number-verification-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-number-verification-cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-orgs: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-password-management: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-porn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-porn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-porn@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-public-tracker: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-remote-control: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-retail-ru: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-retail-ru@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ru: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ru@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-ru@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-scholar-!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-scholar-uk: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-social-media-!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-social-media-!cn@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-speedtest: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-speedtest: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-speedtest@!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-speedtest@ads: skipped regexp rules that dnsmasq nftset cannot express
+geosite-category-stun: downgraded full-domain rules to dnsmasq suffix matching
+geosite-category-travel-ru: downgraded full-domain rules to dnsmasq suffix matching
+geosite-cavporn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-cbs: downgraded full-domain rules to dnsmasq suffix matching
+geosite-chinapower: downgraded full-domain rules to dnsmasq suffix matching
+geosite-cisco: downgraded full-domain rules to dnsmasq suffix matching
+geosite-connectivity-check: downgraded full-domain rules to dnsmasq suffix matching
+geosite-connectivity-check@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-csis: downgraded full-domain rules to dnsmasq suffix matching
+geosite-dell: downgraded full-domain rules to dnsmasq suffix matching
+geosite-deribit: downgraded full-domain rules to dnsmasq suffix matching
+geosite-discord: downgraded full-domain rules to dnsmasq suffix matching
+geosite-disney: downgraded full-domain rules to dnsmasq suffix matching
+geosite-disney: skipped regexp rules that dnsmasq nftset cannot express
+geosite-disney@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-dmm: downgraded full-domain rules to dnsmasq suffix matching
+geosite-docker: downgraded full-domain rules to dnsmasq suffix matching
+geosite-dropbox: downgraded full-domain rules to dnsmasq suffix matching
+geosite-dw: downgraded full-domain rules to dnsmasq suffix matching
+geosite-ea: downgraded full-domain rules to dnsmasq suffix matching
+geosite-ebay: downgraded full-domain rules to dnsmasq suffix matching
+geosite-entrust: downgraded full-domain rules to dnsmasq suffix matching
+geosite-entrust@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-epicgames: skipped regexp rules that dnsmasq nftset cannot express
+geosite-epicgames@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-eset: downgraded full-domain rules to dnsmasq suffix matching
+geosite-espn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-facebook-dev: downgraded full-domain rules to dnsmasq suffix matching
+geosite-facebook: downgraded full-domain rules to dnsmasq suffix matching
+geosite-fandom: downgraded full-domain rules to dnsmasq suffix matching
+geosite-fansta: downgraded full-domain rules to dnsmasq suffix matching
+geosite-faronics: downgraded full-domain rules to dnsmasq suffix matching
+geosite-firebase: downgraded full-domain rules to dnsmasq suffix matching
+geosite-firebase@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-firefox: downgraded full-domain rules to dnsmasq suffix matching
+geosite-fontshop: downgraded full-domain rules to dnsmasq suffix matching
+geosite-forza: downgraded full-domain rules to dnsmasq suffix matching
+geosite-fox: downgraded full-domain rules to dnsmasq suffix matching
+geosite-fqnovel: downgraded full-domain rules to dnsmasq suffix matching
+geosite-fqnovel@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-garena: downgraded full-domain rules to dnsmasq suffix matching
+geosite-geetest: downgraded full-domain rules to dnsmasq suffix matching
+geosite-geolocation-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-geolocation-cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-geolocation-cn@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-geolocation-cn@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-gigabyte: downgraded full-domain rules to dnsmasq suffix matching
+geosite-github-copilot: downgraded full-domain rules to dnsmasq suffix matching
+geosite-github-copilot@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-github: downgraded full-domain rules to dnsmasq suffix matching
+geosite-github@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-gitlab: downgraded full-domain rules to dnsmasq suffix matching
+geosite-globalsign: downgraded full-domain rules to dnsmasq suffix matching
+geosite-globalsign@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-gmo-internet: downgraded full-domain rules to dnsmasq suffix matching
+geosite-gmo-internet@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-gog: downgraded full-domain rules to dnsmasq suffix matching
+geosite-gog@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-google-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-google-deepmind: downgraded full-domain rules to dnsmasq suffix matching
+geosite-google-gemini: downgraded full-domain rules to dnsmasq suffix matching
+geosite-google-play: downgraded full-domain rules to dnsmasq suffix matching
+geosite-google-play: skipped regexp rules that dnsmasq nftset cannot express
+geosite-google-play@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-google-play@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-google-scholar: downgraded full-domain rules to dnsmasq suffix matching
+geosite-google-trust-services: downgraded full-domain rules to dnsmasq suffix matching
+geosite-google-trust-services@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-google: downgraded full-domain rules to dnsmasq suffix matching
+geosite-google: skipped regexp rules that dnsmasq nftset cannot express
+geosite-google@!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-google@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-google@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-google@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-googlefcm: downgraded full-domain rules to dnsmasq suffix matching
+geosite-googlefcm@!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-guo: downgraded full-domain rules to dnsmasq suffix matching
+geosite-hamivideo: downgraded full-domain rules to dnsmasq suffix matching
+geosite-hanyi: downgraded full-domain rules to dnsmasq suffix matching
+geosite-hetzner: downgraded full-domain rules to dnsmasq suffix matching
+geosite-hetzner@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-homebrew: downgraded full-domain rules to dnsmasq suffix matching
+geosite-hotstar: skipped regexp rules that dnsmasq nftset cannot express
+geosite-hp: downgraded full-domain rules to dnsmasq suffix matching
+geosite-hpe: downgraded full-domain rules to dnsmasq suffix matching
+geosite-hulu: downgraded full-domain rules to dnsmasq suffix matching
+geosite-humblebundle: downgraded full-domain rules to dnsmasq suffix matching
+geosite-icloud: downgraded full-domain rules to dnsmasq suffix matching
+geosite-imperialcollege: downgraded full-domain rules to dnsmasq suffix matching
+geosite-itunes: downgraded full-domain rules to dnsmasq suffix matching
+geosite-itunes@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-javdb: skipped regexp rules that dnsmasq nftset cannot express
+geosite-jfrog: downgraded full-domain rules to dnsmasq suffix matching
+geosite-juejin: downgraded full-domain rules to dnsmasq suffix matching
+geosite-kaspersky: downgraded full-domain rules to dnsmasq suffix matching
+geosite-kaspersky@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-kinopub: skipped regexp rules that dnsmasq nftset cannot express
+geosite-kontur: downgraded full-domain rules to dnsmasq suffix matching
+geosite-kontur@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-kuaishou: downgraded full-domain rules to dnsmasq suffix matching
+geosite-kuaishou@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-lastfm: downgraded full-domain rules to dnsmasq suffix matching
+geosite-lg: downgraded full-domain rules to dnsmasq suffix matching
+geosite-likee: downgraded full-domain rules to dnsmasq suffix matching
+geosite-linkedin: downgraded full-domain rules to dnsmasq suffix matching
+geosite-litv: downgraded full-domain rules to dnsmasq suffix matching
+geosite-mailru-group: downgraded full-domain rules to dnsmasq suffix matching
+geosite-mailru-group@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-mailru: downgraded full-domain rules to dnsmasq suffix matching
+geosite-mailru@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-mdn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-meta: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-cn@allow: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-cn@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-cn@common: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-cn@default: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-cn@exchange: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-cn@optimize: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-cn@required: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-cn@skype: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-worldwide: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-worldwide: skipped regexp rules that dnsmasq nftset cannot express
+geosite-microsoft-365-worldwide@allow: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-worldwide@common: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-worldwide@common: skipped regexp rules that dnsmasq nftset cannot express
+geosite-microsoft-365-worldwide@default: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-worldwide@default: skipped regexp rules that dnsmasq nftset cannot express
+geosite-microsoft-365-worldwide@exchange: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-worldwide@exchange: skipped regexp rules that dnsmasq nftset cannot express
+geosite-microsoft-365-worldwide@optimize: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-worldwide@optional: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-worldwide@required: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-worldwide@required: skipped regexp rules that dnsmasq nftset cannot express
+geosite-microsoft-365-worldwide@sharepoint: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-365-worldwide@skype: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-dev: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-dev@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-pki: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-services: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-services: skipped keyword rules that dnsmasq nftset cannot express
+geosite-microsoft-services: skipped regexp rules that dnsmasq nftset cannot express
+geosite-microsoft-services@allow: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-services@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-services@common: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-services@common: skipped regexp rules that dnsmasq nftset cannot express
+geosite-microsoft-services@default: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-services@default: skipped regexp rules that dnsmasq nftset cannot express
+geosite-microsoft-services@exchange: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-services@exchange: skipped regexp rules that dnsmasq nftset cannot express
+geosite-microsoft-services@optimize: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-services@optional: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-services@required: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-services@required: skipped regexp rules that dnsmasq nftset cannot express
+geosite-microsoft-services@sharepoint: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft-services@skype: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-microsoft@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-mihoyo-cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-mihoyo-cn@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-mihoyo: skipped regexp rules that dnsmasq nftset cannot express
+geosite-mihoyo@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-mindbox: downgraded full-domain rules to dnsmasq suffix matching
+geosite-mindbox@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-monotype: downgraded full-domain rules to dnsmasq suffix matching
+geosite-mozilla: downgraded full-domain rules to dnsmasq suffix matching
+geosite-mozilla@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-mvideo: downgraded full-domain rules to dnsmasq suffix matching
+geosite-netflix: downgraded full-domain rules to dnsmasq suffix matching
+geosite-netflix: skipped regexp rules that dnsmasq nftset cannot express
+geosite-netlify: downgraded full-domain rules to dnsmasq suffix matching
+geosite-nixos: downgraded full-domain rules to dnsmasq suffix matching
+geosite-nurofen: downgraded full-domain rules to dnsmasq suffix matching
+geosite-nvidia: downgraded full-domain rules to dnsmasq suffix matching
+geosite-nvidia@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-ok: downgraded full-domain rules to dnsmasq suffix matching
+geosite-okaapps: skipped regexp rules that dnsmasq nftset cannot express
+geosite-okaapps@cn: skipped regexp rules that dnsmasq nftset cannot express
+geosite-onekey: downgraded full-domain rules to dnsmasq suffix matching
+geosite-oneplus: downgraded full-domain rules to dnsmasq suffix matching
+geosite-oneplus@!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-ookla-speedtest: downgraded full-domain rules to dnsmasq suffix matching
+geosite-ookla-speedtest: skipped regexp rules that dnsmasq nftset cannot express
+geosite-ookla-speedtest@ads: skipped regexp rules that dnsmasq nftset cannot express
+geosite-op: downgraded full-domain rules to dnsmasq suffix matching
+geosite-openai: downgraded full-domain rules to dnsmasq suffix matching
+geosite-openai: skipped regexp rules that dnsmasq nftset cannot express
+geosite-openai@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-openjsfoundation: downgraded full-domain rules to dnsmasq suffix matching
+geosite-openjsfoundation@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-openrec: downgraded full-domain rules to dnsmasq suffix matching
+geosite-oppo: downgraded full-domain rules to dnsmasq suffix matching
+geosite-oppo@!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-origin: downgraded full-domain rules to dnsmasq suffix matching
+geosite-osu: downgraded full-domain rules to dnsmasq suffix matching
+geosite-ozon: downgraded full-domain rules to dnsmasq suffix matching
+geosite-ozon@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-patreon: downgraded full-domain rules to dnsmasq suffix matching
+geosite-paypal: downgraded full-domain rules to dnsmasq suffix matching
+geosite-pccw: downgraded full-domain rules to dnsmasq suffix matching
+geosite-pccw: skipped regexp rules that dnsmasq nftset cannot express
+geosite-pchome: downgraded full-domain rules to dnsmasq suffix matching
+geosite-peppy: downgraded full-domain rules to dnsmasq suffix matching
+geosite-perplexity: downgraded full-domain rules to dnsmasq suffix matching
+geosite-picacg: downgraded full-domain rules to dnsmasq suffix matching
+geosite-picacg@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-pikpak: downgraded full-domain rules to dnsmasq suffix matching
+geosite-pikpak@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-pingsx: downgraded full-domain rules to dnsmasq suffix matching
+geosite-primevideo: downgraded full-domain rules to dnsmasq suffix matching
+geosite-private: downgraded full-domain rules to dnsmasq suffix matching
+geosite-private: skipped regexp rules that dnsmasq nftset cannot express
+geosite-pubg: downgraded full-domain rules to dnsmasq suffix matching
+geosite-purikonejp: downgraded full-domain rules to dnsmasq suffix matching
+geosite-qualcomm: downgraded full-domain rules to dnsmasq suffix matching
+geosite-quora: downgraded full-domain rules to dnsmasq suffix matching
+geosite-rb: downgraded full-domain rules to dnsmasq suffix matching
+geosite-riot: downgraded full-domain rules to dnsmasq suffix matching
+geosite-roblox: downgraded full-domain rules to dnsmasq suffix matching
+geosite-rockstar: downgraded full-domain rules to dnsmasq suffix matching
+geosite-rostelecom: downgraded full-domain rules to dnsmasq suffix matching
+geosite-rostelecom@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-rsshub-3rd: downgraded full-domain rules to dnsmasq suffix matching
+geosite-sber: downgraded full-domain rules to dnsmasq suffix matching
+geosite-sber@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai: skipped keyword rules that dnsmasq nftset cannot express
+geosite-service-ai: skipped regexp rules that dnsmasq nftset cannot express
+geosite-service-ai@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@apple-intelligence: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@auth-compat: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@auth: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@billing: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@cdn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@docs: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@download: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@legacy-official: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@legacy: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@mcp: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@optional: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@telemetry: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@third-party: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@url-fallback: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-ai@websocket: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-anthropic: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-anthropic@auth: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-anthropic@cdn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-anthropic@docs: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-anthropic@download: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-anthropic@legacy: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-anthropic@mcp: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-anthropic@optional: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-anthropic@telemetry: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-anthropic@third-party: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-anthropic@websocket: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-apple-intelligence: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-apple-intelligence@apple-intelligence: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-apple-intelligence@third-party: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-chatgpt: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-chatgpt: skipped keyword rules that dnsmasq nftset cannot express
+geosite-service-chatgpt: skipped regexp rules that dnsmasq nftset cannot express
+geosite-service-chatgpt@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-chatgpt@auth: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-chatgpt@billing: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-chatgpt@cdn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-chatgpt@download: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-chatgpt@telemetry: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-chatgpt@third-party: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-chatgpt@websocket: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-claude-code: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-claude-code@auth: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-claude-code@cdn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-claude-code@docs: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-claude-code@download: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-claude-code@mcp: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-claude-code@optional: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-claude-code@telemetry: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-claude-code@third-party: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-claude-code@websocket: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-claude: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-claude@cdn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-codex: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-codex: skipped keyword rules that dnsmasq nftset cannot express
+geosite-service-codex: skipped regexp rules that dnsmasq nftset cannot express
+geosite-service-codex@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-codex@auth: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-codex@billing: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-codex@cdn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-codex@download: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-codex@telemetry: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-codex@third-party: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-codex@websocket: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-containers: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-dart: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-dotnet: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-github: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-go: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-haskell: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-infrastructure: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-java: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-javascript: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-linux: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-perl: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-php: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-python: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-ruby: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-rust: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-dev-swift: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-gemini-code-assist: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-gemini-web: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-gemini-web@url-fallback: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-google-ai: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-google-ai: skipped keyword rules that dnsmasq nftset cannot express
+geosite-service-google-ai@url-fallback: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-openai: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-openai: skipped keyword rules that dnsmasq nftset cannot express
+geosite-service-openai: skipped regexp rules that dnsmasq nftset cannot express
+geosite-service-openai@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-openai@auth-compat: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-openai@auth: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-openai@billing: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-openai@cdn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-openai@download: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-openai@legacy-official: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-openai@legacy: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-openai@telemetry: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-openai@third-party: downgraded full-domain rules to dnsmasq suffix matching
+geosite-service-openai@websocket: downgraded full-domain rules to dnsmasq suffix matching
+geosite-snap: downgraded full-domain rules to dnsmasq suffix matching
+geosite-speedtest: downgraded full-domain rules to dnsmasq suffix matching
+geosite-speedtest: skipped regexp rules that dnsmasq nftset cannot express
+geosite-speedtest@ads: skipped regexp rules that dnsmasq nftset cannot express
+geosite-spotify: downgraded full-domain rules to dnsmasq suffix matching
+geosite-spotify@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-standardchartered: downgraded full-domain rules to dnsmasq suffix matching
+geosite-steam: downgraded full-domain rules to dnsmasq suffix matching
+geosite-steam@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-straitsx: downgraded full-domain rules to dnsmasq suffix matching
+geosite-subscene: downgraded full-domain rules to dnsmasq suffix matching
+geosite-supercell: downgraded full-domain rules to dnsmasq suffix matching
+geosite-take-two: downgraded full-domain rules to dnsmasq suffix matching
+geosite-tbank-ru: downgraded full-domain rules to dnsmasq suffix matching
+geosite-teamviewer: downgraded full-domain rules to dnsmasq suffix matching
+geosite-tencent: downgraded full-domain rules to dnsmasq suffix matching
+geosite-tencent@!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-test: downgraded full-domain rules to dnsmasq suffix matching
+geosite-thelinuxfoundation: downgraded full-domain rules to dnsmasq suffix matching
+geosite-thelinuxfoundation@cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-tiktok: downgraded full-domain rules to dnsmasq suffix matching
+geosite-tiktok@!cn: downgraded full-domain rules to dnsmasq suffix matching
+geosite-tmdb: downgraded full-domain rules to dnsmasq suffix matching
+geosite-twitch: downgraded full-domain rules to dnsmasq suffix matching
+geosite-ubisoft: downgraded full-domain rules to dnsmasq suffix matching
+geosite-vimeo: skipped regexp rules that dnsmasq nftset cannot express
+geosite-viu: downgraded full-domain rules to dnsmasq suffix matching
+geosite-viu: skipped regexp rules that dnsmasq nftset cannot express
+geosite-vk: downgraded full-domain rules to dnsmasq suffix matching
+geosite-vk@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-vmware: downgraded full-domain rules to dnsmasq suffix matching
+geosite-wbgames: downgraded full-domain rules to dnsmasq suffix matching
+geosite-wildberries: downgraded full-domain rules to dnsmasq suffix matching
+geosite-wildberries@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-x5: downgraded full-domain rules to dnsmasq suffix matching
+geosite-x5@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-xbox: downgraded full-domain rules to dnsmasq suffix matching
+geosite-xhamster: downgraded full-domain rules to dnsmasq suffix matching
+geosite-yahoo: downgraded full-domain rules to dnsmasq suffix matching
+geosite-yandex: downgraded full-domain rules to dnsmasq suffix matching
+geosite-yandex@ads: downgraded full-domain rules to dnsmasq suffix matching
+geosite-youku: downgraded full-domain rules to dnsmasq suffix matching
+geosite-youtube: downgraded full-domain rules to dnsmasq suffix matching
+geosite-zee: downgraded full-domain rules to dnsmasq suffix matching

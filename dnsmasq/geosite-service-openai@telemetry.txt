@@ -1,0 +1,13 @@
+events.statsigapi.net
+featureassets.org
+featuregates.org
+launchdarkly.com
+o207216.ingest.sentry.io
+o33249.ingest.sentry.io
+oaistatsig.com
+observeit.net
+prodregistryv2.org
+rum.browser-intake-datadoghq.com
+segment.io
+statsig.com
+statsigapi.net

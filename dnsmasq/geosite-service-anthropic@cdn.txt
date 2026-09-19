@@ -1,0 +1,7 @@
+a-cdn.anthropic.com
+assets-proxy.anthropic.com
+claudemcpcontent.com
+claudeusercontent.com
+s-cdn.anthropic.com
+servd-anthropic-website.b-cdn.net
+www-cdn.anthropic.com
