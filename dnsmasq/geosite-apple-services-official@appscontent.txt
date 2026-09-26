@@ -1,0 +1,15 @@
+api.apple-cloudkit.com
+appattest.apple.com
+apps-marketplace.apple.com
+apps.apple.com
+audiocontentdownload.apple.com
+devimages-cdn.apple.com
+download.developer.apple.com
+gateway.icloud.com
+itunes.apple.com
+mzstatic.com
+playground-assets-cdn.apple.com
+playground-cdn.apple.com
+ppq.apple.com
+sylvan.apple.com
+token.safebrowsing.apple

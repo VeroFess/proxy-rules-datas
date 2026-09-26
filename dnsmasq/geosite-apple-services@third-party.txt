@@ -1,0 +1,14 @@
+appldnld.apple.com.edgesuite.net
+apple-mapkit.com
+apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
+apzones.com
+cp4.cloudflare.com
+crl3.digicert.com
+crl4.digicert.com
+icloud.com.cn
+icons.axm-usercontent-apple.com
+ocsp.digicert.cn
+ocsp.digicert.com
+upload.appleschoolcontent.com
+vertexsmb.com

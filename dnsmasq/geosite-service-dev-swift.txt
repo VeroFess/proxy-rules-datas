@@ -1,0 +1,4 @@
+cdn.cocoapods.org
+cocoapods.org
+download.swift.org
+swift.org
