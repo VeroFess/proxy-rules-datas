@@ -1,0 +1,3 @@
+cpan.metacpan.org
+cpan.org
+metacpan.org

@@ -1,0 +1,15 @@
+cdn.usefathom.com
+clau.de
+claudemcpclient.com
+edgeservices.bing.com
+events.statsigapi.net
+featureassets.org
+featuregates.org
+identrust.com
+launchdarkly.com
+observeit.net
+prodregistryv2.org
+segment.io
+servd-anthropic-website.b-cdn.net
+statsig.com
+statsigapi.net

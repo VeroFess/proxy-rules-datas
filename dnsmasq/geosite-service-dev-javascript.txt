@@ -1,0 +1,17 @@
+api.npms.io
+binaries.prisma.sh
+bun.sh
+deb.nodesource.com
+deno.land
+get.pnpm.io
+nodejs.org
+npm.pkg.github.com
+npmjs.com
+npmjs.org
+registry.bower.io
+registry.npmjs.com
+registry.npmjs.org
+registry.yarnpkg.com
+repo.yarnpkg.com
+skimdb.npmjs.com
+yarnpkg.com

@@ -1,0 +1,3 @@
+browser-intake-us5-datadoghq.com
+http-intake.logs.us5.datadoghq.com
+review.googlesource.com

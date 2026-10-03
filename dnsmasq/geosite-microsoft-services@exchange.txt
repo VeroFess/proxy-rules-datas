@@ -1,0 +1,13 @@
+attachments.office365-net.cn
+mail.protection.outlook.com
+mail.protection.partner.outlook.cn
+mx.microsoft
+outlook.cloud.microsoft
+outlook.com
+outlook.office.com
+outlook.office365.com
+partner.outlook.cn
+protection.outlook.com
+protection.partner.outlook.cn
+smtp.office365.com
+sovcloud-mx.cn

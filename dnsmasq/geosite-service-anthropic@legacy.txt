@@ -1,0 +1,4 @@
+cdn.usefathom.com
+clau.de
+claudemcpclient.com
+servd-anthropic-website.b-cdn.net

@@ -1,0 +1,13 @@
+anaconda.org
+binstar.org
+bootstrap.pypa.io
+conda.anaconda.org
+conda.binstar.org
+download.pytorch.org
+files.pythonhosted.org
+pip.pypa.io
+pypi.org
+pypi.python.org
+pythonhosted.org
+repo.anaconda.com
+repo.continuum.io

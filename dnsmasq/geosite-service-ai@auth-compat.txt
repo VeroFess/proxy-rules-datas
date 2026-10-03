@@ -1,0 +1,2 @@
+client-api.arkoselabs.com
+openai-api.arkoselabs.com

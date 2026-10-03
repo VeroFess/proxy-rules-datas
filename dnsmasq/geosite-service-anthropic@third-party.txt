@@ -1,0 +1,10 @@
+browser-intake-us5-datadoghq.com
+cdn.usefathom.com
+formulae.brew.sh
+github.com
+http-intake.logs.us5.datadoghq.com
+raw.githubusercontent.com
+registry.npmjs.org
+review.googlesource.com
+servd-anthropic-website.b-cdn.net
+storage.googleapis.com

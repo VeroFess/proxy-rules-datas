@@ -1,0 +1,14 @@
+apt.releases.hashicorp.com
+cdn.playwright.dev
+dl.k8s.io
+json-schema.org
+json.schemastore.org
+pkgs.k8s.io
+playwright-akamai.azureedge.net
+playwright-verizon.azureedge.net
+playwright.azureedge.net
+playwright.download.prss.microsoft.com
+registry.terraform.io
+releases.hashicorp.com
+storage.googleapis.com
+yum.releases.hashicorp.com

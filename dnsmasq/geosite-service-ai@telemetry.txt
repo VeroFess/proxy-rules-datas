@@ -1,0 +1,17 @@
+api.anthropic.com
+browser-intake-us5-datadoghq.com
+cdn.usefathom.com
+events.statsigapi.net
+featureassets.org
+featuregates.org
+http-intake.logs.us5.datadoghq.com
+launchdarkly.com
+o207216.ingest.sentry.io
+o33249.ingest.sentry.io
+oaistatsig.com
+observeit.net
+prodregistryv2.org
+rum.browser-intake-datadoghq.com
+segment.io
+statsig.com
+statsigapi.net
