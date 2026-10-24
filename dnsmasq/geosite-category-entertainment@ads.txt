@@ -1,0 +1,9 @@
+adeventtracker.spotify.com
+ads-pixiv.net
+ads.youtube.com
+adstudio-assets.scdn.co
+analytics.tiktok.com
+bloodhound.spotify.com
+disney.my.sentry.io
+insights-collector.gog.com
+log-upload-os.hoyoverse.com
