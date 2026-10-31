@@ -1,0 +1,11 @@
+edgeservices.bing.com
+events.statsigapi.net
+featureassets.org
+featuregates.org
+identrust.com
+launchdarkly.com
+observeit.net
+prodregistryv2.org
+segment.io
+statsig.com
+statsigapi.net

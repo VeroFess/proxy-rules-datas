@@ -1,0 +1,14 @@
+HTTP 403 Forbidden
+service-ai: Surge output skipped domain regexp ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
+service-chatgpt: Surge output skipped domain regexp ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
+service-codex: Surge output skipped domain regexp ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
+service-openai: Surge output skipped domain regexp ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
+sukka-apple-services:28 ignored IP-CIDR
+sukka-apple-services:31 ignored PROCESS-NAME
+sukka-apple-services:32 ignored PROCESS-NAME
+sukka-apple-services:33 ignored PROCESS-NAME
+sukka-apple-services:53 ignored PROCESS-NAME
+sukka-apple-services:54 ignored PROCESS-NAME
+sukka-apple-services:55 ignored PROCESS-NAME
+sukka-apple-services:56 ignored PROCESS-NAME
+sukka-apple-services:57 ignored PROCESS-NAME

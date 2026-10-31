@@ -1,0 +1,15 @@
+cdn.workos.com
+challenges.cloudflare.com
+ct.sendgrid.net
+forwarder.workos.com
+humb.apple.com
+images.workoscdn.com
+intercom.io
+intercomcdn.com
+js.intercomcdn.com
+js.stripe.com
+o207216.ingest.sentry.io
+o33249.ingest.sentry.io
+rum.browser-intake-datadoghq.com
+setup.workos.com
+workos.imgix.net

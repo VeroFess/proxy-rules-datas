@@ -1,0 +1,5 @@
+lcdn-locator.apple.com
+lcdn-registration.apple.com
+serverstatus.apple.com
+suconfig.apple.com
+xp-cdn.apple.com
