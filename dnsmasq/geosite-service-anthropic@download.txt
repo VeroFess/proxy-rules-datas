@@ -1,0 +1,4 @@
+downloads.claude.ai
+formulae.brew.sh
+raw.githubusercontent.com
+storage.googleapis.com
