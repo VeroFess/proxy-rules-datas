@@ -1,0 +1,15 @@
+api-business.apple.com
+api-school.apple.com
+api.edu.apple.com
+api.ent.apple.com
+appleid.cdn-apple.com
+business.apple.com
+idmsa.apple.com
+itunes.apple.com
+mzstatic.com
+school.apple.com
+statici.icloud.com
+upload.appleschoolcontent.com
+vertexsmb.com
+ws-ee-maidsvc.icloud.com
+www.apple.com

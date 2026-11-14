@@ -1,0 +1,10 @@
+auth.docker.io
+docker.com
+docker.io
+gcr.io
+ghcr.io
+mcr.microsoft.com
+production.cloudflare.docker.com
+public.ecr.aws
+quay.io
+registry.hub.docker.com
