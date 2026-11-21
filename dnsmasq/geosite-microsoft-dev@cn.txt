@@ -1,0 +1,5 @@
+download.visualstudio.microsoft.com
+microsoftreactor.cn
+microsoftreactor.com.cn
+reactorms.com.cn
+vscode.download.prss.microsoft.com

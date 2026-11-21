@@ -1,0 +1,3 @@
+cdn.openai.com
+oaistatic.com
+oaiusercontent.com

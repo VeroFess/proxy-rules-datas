@@ -1,0 +1,3 @@
+bpapi.apple.com
+cssubmissions.apple.com
+fba.apple.com

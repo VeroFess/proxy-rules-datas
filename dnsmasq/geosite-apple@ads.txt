@@ -1,0 +1,5 @@
+advertising.apple.com
+api-adservices.apple.com
+iad.apple.com
+iadsdk.apple.com
+qwapi.com

@@ -1,0 +1,14 @@
+a-cdn.anthropic.com
+assets-proxy.anthropic.com
+assets.claudeusercontent.com
+cdn.openai.com
+claudemcpcontent.com
+claudeusercontent.com
+frame.claudeusercontent.com
+oaistatic.com
+oaiusercontent.com
+s-cdn.anthropic.com
+servd-anthropic-website.b-cdn.net
+static.claudeusercontent.com
+upload.claudeusercontent.com
+www-cdn.anthropic.com

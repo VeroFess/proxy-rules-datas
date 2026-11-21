@@ -1,0 +1,10 @@
+albert.apple.com
+captive.apple.com
+gs.apple.com
+humb.apple.com
+sq-device.apple.com
+static.ips.apple.com
+tbsc.apple.com
+time-ios.apple.com
+time-macos.apple.com
+time.apple.com

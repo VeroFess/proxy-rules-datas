@@ -1,0 +1,7 @@
+go.dev
+golang.org
+goproxy.io
+pkg.go.dev
+proxy.golang.org
+storage.googleapis.com
+sum.golang.org
