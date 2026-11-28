@@ -1,0 +1,10 @@
+auth.openai.com
+auth0.openai.com
+cdn.workos.com
+challenges.cloudflare.com
+forwarder.workos.com
+frontend-apps-multi-region.workos.com
+images.workoscdn.com
+setup.auth.openai.com
+setup.workos.com
+workos.imgix.net

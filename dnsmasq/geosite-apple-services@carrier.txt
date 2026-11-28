@@ -1,0 +1,6 @@
+appldnld.apple.com
+appldnld.apple.com.edgesuite.net
+itunes.apple.com
+itunes.com
+updates-http.cdn-apple.com
+updates.cdn-apple.com
